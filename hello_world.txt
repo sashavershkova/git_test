@@ -1,1 +1,2 @@
 I.m The Odin student learning new things.
+There're couple new things with commit message so I have to try it first.
